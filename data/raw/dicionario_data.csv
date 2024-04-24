@@ -1,0 +1,11 @@
+variavel,descrição,tipo,subtipo
+carat,Quantidade de massa representada em Quilates,Quantitativo,Contínua
+cut,Qualidade de corte do diamante,Qualitativo,Nominal
+color,Cor do diamante em alfanumérica,Qualitativo,Nominal
+clarity,Classificação de clareza do diamante,Qualitativo,Nominal
+depth,Profundidade total em porcentagem,Quantitativa,Discreta
+table,Largura do topo do diamante relativo ao ponto mais largo (43–95),Quantitativo,Contínua
+price,Preço em dolar,Quantitativo,Contínua
+x,Altura do diamante em mm,Quantitativo,Contínua
+y,Largura do diamante em mm,Quantitativo,Contínua
+z,Comprimento do diamante em mm,Quantitativo,Contínua
